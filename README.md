@@ -1,4 +1,4 @@
-# SnehalKulkarni_Lab1_PythonForDS
+# Shahrukh-Shaikh_Lab1_PythonForDS
 
 
 ER Diagram for Database E_commerce
